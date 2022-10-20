@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/itsgratien/rui#readme",
   "publishConfig": {
-    "@itsgratien/registry": "https://npm.pkg.github.com"
+    "@itsgratien:registry": "https://npm.pkg.github.com"
   }
 }
