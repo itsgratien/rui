@@ -1,7 +1,7 @@
 {
   "name": "@itsgratien/rui",
   "version": "1.0.0",
-  "description": "Simple React UI Library",
+  "description": "React UI Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/itsgratien/rui#readme",
   "publishConfig": {
-    "@itsgratien/registry": "https://npm.pkg.github.com"
+    "@itsgratien:registry": "https://npm.pkg.github.com"
   }
 }
