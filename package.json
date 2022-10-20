@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itsgratien/rui/issues"
   },
-  "homepage": "https://github.com/itsgratien/rui#readme"
+  "homepage": "https://github.com/itsgratien/rui#readme",
+  "publishConfig": {
+    "@itsgratien/registry": "https://npm.pkg.github.com"
+  }
 }
