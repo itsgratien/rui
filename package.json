@@ -1,0 +1,19 @@
+{
+  "name": "@itsgratien/rui",
+  "version": "1.0.0",
+  "description": "Simple React UI Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsgratien/rui.git"
+  },
+  "author": "gratien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsgratien/rui/issues"
+  },
+  "homepage": "https://github.com/itsgratien/rui#readme"
+}
